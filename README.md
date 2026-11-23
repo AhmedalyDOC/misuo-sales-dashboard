@@ -5,7 +5,7 @@ An interactive sales dashboard built in Microsoft Excel to analyze sales perform
 
 The project transforms raw sales data into meaningful insights through data cleaning, KPI analysis, PivotTables, PivotCharts, and interactive dashboard features.
 
-![MISUO Sales Dashboard](Sales%20Dashboard%20Preview.png)
+![MISUO Sales Dashboard](Cover%20mockup.png)
 
 ---
 
